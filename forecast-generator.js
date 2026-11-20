@@ -49,6 +49,34 @@ const PLANET_YEAR_TEXTS = {
       "Pokud rok prožíváte správně, čeká Vás úspěch v podnikání a kariéře, zisk, vítězství ve sporech, sebevědomí a dobré zdraví. V negativu se Jedenáctka projevuje agresí, tlakem a snahou všechno prorazit silou. Pak přichází nedostatek sil, prohry, vnitřní deprese, slabost, skrytí nepřátelé a konkurenti, a také problémy se zdravím a lékařské omyly. Jedenáctka totiž umí sílu dát i vzít. Kdo ji používá k tlaku a jde všude přes odpor, ten ji ztrácí.",
       "Proto je v roce 2027 důležité starat se o své tělo. Sport, plavání, procházky, meditace, cokoliv, co Vám pomůže uvolnit nahromaděnou energii, aby se neproměnila v agresi uvnitř Vás. Učte se odpočívat, i když Jedenáctka nechce nic čekat a chce všechno hned. A tam, kde by se chtělo zatlačit, zkuste se domluvit. Zaměřte svou sílu na to, co je pro Vás skutečně důležité, a pomáhejte světu. Pokud spojíte upřímnost Dvojky se silou Jedenáctky, může Vám rok 2027 dát opravdu hodně."
     ]
+  ],
+  "2028": [
+    [
+      "Rok 2028 nese energie 12 a 3. Součet číslic roku (2 + 0 + 2 + 8) dává Dvanáctku a když ji sečteme ještě jednou (1 + 2), dostaneme Trojku. Je to rok tvořivosti, projevu a nového pohledu na sebe.",
+      "Je to třetí rok devítiletého cyklu, který začal v roce 2026. V Jedničce jsme zasévali semínka, ve Dvojce jsme se učili spojení a upřímnosti. A teď přichází Trojka, energie Císařovny. Je to energie tvorby, hojnosti, růstu a rození. Rození dětí, ale také projektů, produktů a všeho, co vytváříme vlastníma rukama. V Trojce dostáváme druhý dech a projekty, které vznikly na začátku cyklu, se mohou rozšiřovat a růst.",
+      "Hlavní lekcí Trojky je projev a rozsah. Proto jednejte a ukažte se. Tento rok odměňuje ty, kdo se nebojí být vidět, tvořit a nabízet světu to, co umí. Pokud prožíváte rok správně, přináší růst, pověst, rozpoznatelnost a zlepšení materiální situace. Mohou přijít noví přátelé, stěhování a cestování. A je to také rok, kdy je vysoká pravděpodobnost narození dítěte.",
+      "Trojka je energie matky. Proto se v tomto roce může hodně ukázat ve vztahu s matkou a se ženami kolem nás. Pokud v sobě nesete vůči matce odmítání nebo křivdu, tento rok Vám to připomene a úkolem je přijmout ji takovou, jaká je. V negativu se Trojka projevuje kontrolou. Kontrolou partnera, dětí, všeho kolem, a s tím přichází neklid, hysterie a nervové vyčerpání. Jediné, co je opravdu potřeba kontrolovat, jsme my sami a naše činy."
+    ],
+    [
+      "Zároveň nad celým rokem stojí Dvanáctka. Je to energie služby, pomoci, tvořivosti a pokory. Dvanáctka učí vážit si sebe a své práce a dívat se na obvyklé věci novýma očima. Lidé s touto energií vidí věci z jiného úhlu a nacházejí ta nejneobvyklejší řešení. V roce 2028 tuto schopnost dostáváme všichni, proto je to skvělý čas na tvořivost, nové nápady a přehodnocení toho, co už nám neslouží.",
+      "Dvanáctka má ale i svou stinnou stránku, a tou je role oběti. Pomáháme všem kolem, zapomínáme na sebe a pak se cítíme využívaní, vysátí a bez energie. Proto se v tomto roce budeme učit říkat „ne“ tomu, co nechceme, bránit své osobní hranice a pomáhat jen tehdy, když to opravdu chceme a máme z čeho dávat. Pomoc by měla být nezištná, bez výčitek a bez vyvolávání pocitu viny. Dobro se určitě vrátí, ale ne nutně od toho, komu jsme ho dali.",
+      "Pokud se rok prožívá správně, přináší tvořivý vzlet, nalezení sebe sama, duchovní růst, uzdravení po nemoci a vstup na novou úroveň. Pokud se žije v negativu, může přinést nejistotu, strach, situace, kdy se ocitáme v roli oběti, ztrátu peněz, rozvody a vyčerpání.",
+      "Proto chraňte svou energii a rozšiřujte oblasti své činnosti. Tvořte, ukazujte se a dovolte si růst. A pamatujte, že sami pro sebe musíte být na prvním místě. Teprve když se postaráte o sebe, můžete dávat ostatním z hojnosti, a přesně v tom je síla roku 2028. Každý problém má řešení a nic Vás nemusí zlomit, pokud budete znát svou hodnotu."
+    ]
+  ],
+  "2029": [
+    [
+      "Rok 2029 nese energie 13 a 4. Součet číslic roku (2 + 0 + 2 + 9) dává Třináctku a když ji sečteme ještě jednou (1 + 3), dostaneme Čtyřku. Je to rok těla, opory a hlubokých proměn.",
+      "Je to čtvrtý rok devítiletého cyklu. Po Jedničce, která zasévala, Dvojce, která spojovala, a Trojce, která nechala všechno růst, přichází Čtyřka, energie Císaře. Je to energie pevného základu, odpovědnosti, řádu a práce. Čtyřka je o zemi pod nohama: o těle, domově, penězích a stabilitě. Všechno, co jsme za první tři roky cyklu vytvořili, teď potřebuje pevnou strukturu.",
+      "Hlavní lekcí roku je tělo. Tělo ztělesňuje zemi a oporu, proto je v roce 2029 nesmírně důležité volit své tělo a pečovat o své zdraví a svůj stav. Pokud se rok prožívá pozitivně, přináší silné, pevné, zdravé tělo, velké peníze, nový domov, prodej nebo nákup nemovitosti. Pokud negativně, mohou se aktivovat chronická onemocnění, stresy, přetížení a vyčerpání a hrozí i ztráta bydlení nebo kapitálu.",
+      "Je to rok usilovné a pečlivé práce. Mohou přijít stěhování i rozvody. Pro muže je to často rok, kdy se stávají otci a přebírají více odpovědnosti. Čtyřka se dotýká také vztahu s otcem. Pokud v sobě vůči otci nesete křivdu, tento rok je čas mu odpustit. V negativu se Čtyřka projevuje kontrolou, diktátem, soupeřením a snahou mít všechno a všechny pod svou mocí. A čím víc kontrolujeme, tím víc sil ztrácíme."
+    ],
+    [
+      "Důležité je neběžet a neuspěchat věci. Čtyřka nemá ráda chaos a ukvapenost. Je to rok, kdy dotahujeme, upevňujeme a stavíme pevně to, co už máme, a s novým podnikáním je lepší nespěchat. Mohou přijít zkoušky v přátelství a bariéry spojené s rodinou a je důležité projít jimi důstojně.",
+      "Nad celým rokem zároveň stojí Třináctka, energie proměny a nového zrození. V Matici osudu smrt nikdy neznamená konec. Znamená, že něco starého odchází, aby mohlo přijít nové. Hlavní lekcí Třináctky je naučit se pustit staré a neulpívat na minulosti. Práci, která už nenaplňuje, vztahy, které už nepřinášejí štěstí, věci a přesvědčení, které nás jen zatěžují. Abychom se dostali výš, potřebujeme se zbavit přebytečného břemene.",
+      "V negativu nás Třináctka drží v minulosti s heslem „lepší špatně, ale stabilně“. Kdo se v roce 2029 bude křečovitě držet starého, může zažít krizové situace v práci a ve vztazích, zdravotní problémy, prudké změny k horšímu a závislosti. Kdo se proměnám otevře, toho čeká transformace, kariérní růst, výrazné pozitivní změny a setkání s novými lidmi.",
+      "Proto se v tomto roce nebojte měnit. Projevujte vděčnost v jakýchkoli situacích, dodržujte rovnováhu mezi prací a odpočinkem a nepřetěžujte se. Dopřejte si i jasné emoce, protože Třináctka potřebuje cítit, že žije. Čtyřka dává pevnou půdu pod nohama a Třináctka odvahu pustit to, co už k Vám nepatří. Když je spojíte, může být rok 2029 rokem, kdy postavíte svůj život na nový, pevný základ."
+    ]
   ]
 };
 
